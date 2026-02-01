@@ -1,6 +1,6 @@
 {
-	"host": "HungerGames.aternos.me",
-	"port": "47367",
+	"host": "HungerGames.exaroton.me",
+	"port": "40935",
 	"username": "AnNPC67676767",
 	"logger": [ true
 		, "true : displays not necessary logs (ex: key input logs).",
